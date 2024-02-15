@@ -1,0 +1,5 @@
+{
+    "wrerites":[
+        {"source":"/(.*)","destination":"/"}
+    ]
+}
